@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p {
+  margin: 0;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+.text-darkGray {
+  color: #203239;
+}
+.text-orange {
+  color: #ff7527;
+}
+/* div1{
+    padding: 100px 100px 100px 100px;
+    width: 100%;
+}
+div2{
+    padding: 68px 100px 68px 100px;
+    width: 100%;
+}
+div3{
+    display: flex;
+    flex-direction: column;
+}
+div4{
+    display: flex;
+    flex-direction: row;
+}
+p1{
+    font-size: 32px;
+}
+p2{
+    font-size: 16px;
+} */
